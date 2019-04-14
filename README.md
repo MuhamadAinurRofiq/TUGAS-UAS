@@ -6,3 +6,32 @@ FLOWCHART TUGAS UAS
 
 <p align="center">
 <img src="https://github.com/MuhamadAinurRofiq/TUGAS-UAS/blob/master/Uas/Sceenshoot%20%26%20Flowchart/flowchart%201.jpg" width="850" />
+
+SS Penggajian
+
+
+<p align="center">
+<img src="https://github.com/MuhamadAinurRofiq/TUGAS-UAS/blob/master/Uas/Sceenshoot%20%26%20Flowchart/ss1.jpg"
+width="850" />
+
+
+SS Penilaian
+
+<p align="center">
+<img src="https://github.com/MuhamadAinurRofiq/TUGAS-UAS/blob/master/Uas/Sceenshoot%20%26%20Flowchart/ss3.jpg"
+width="850" />
+
+
+SS Pembayaran
+
+
+<p align="center">
+<img src="https://github.com/MuhamadAinurRofiq/TUGAS-UAS/blob/master/Uas/Sceenshoot%20%26%20Flowchart/ss4.jpg"
+width="850" />
+
+
+SS Kalkulator
+
+<p align="center">
+<img src="https://github.com/MuhamadAinurRofiq/TUGAS-UAS/blob/master/Uas/Sceenshoot%20%26%20Flowchart/ss5.jpg"
+width="850" />
